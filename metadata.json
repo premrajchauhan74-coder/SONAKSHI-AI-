@@ -1,0 +1,6 @@
+{
+  "name": "Sonakshi AI",
+  "description": "Agentic AI voice assistant and phone control companion (Sonakshi) with Hindi & English voice interaction, device automation intents, macros, and guided system setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

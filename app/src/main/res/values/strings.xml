@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sonakshi AI</string>
+    <string name="assistant_tagline">Agentic Voice &amp; Phone Control Companion</string>
+    <string name="firebase_required_notice">Live Gemini AI requires Firebase AI Logic (currently using offline sample responses). On-device Voice (TTS/STT) and Android Phone Control actions are 100% active.</string>
+    <string name="nav_assistant">Sonakshi</string>
+    <string name="nav_phone_control">Phone Control</string>
+    <string name="nav_macros">Macros</string>
+    <string name="nav_setup">Full Setup</string>
+    <string name="wake_word_badge">Wake: \"Hey Sonakshi\"</string>
+    <string name="mic_button_desc">Start voice command input</string>
+    <string name="send_button_desc">Send command to Sonakshi</string>
+    <string name="tts_toggle_desc">Toggle voice readback</string>
+    <string name="clear_chat_desc">Reset conversation history</string>
+    <string name="hero_banner_desc">Sonakshi AI neural soundwave core banner</string>
+</resources>
